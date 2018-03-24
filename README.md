@@ -1,6 +1,6 @@
 # DataScienceProject1
-Group Members:-
-    - Chris Falco
-    - Ella Bojneag
-    - George Varkey
-    - Shiven Patel
+Group Members:- <br />
+    - Chris Falco <br />
+    - Ella Bojneag <br />
+    - George Varkey <br />
+    - Shiven Patel <br />
